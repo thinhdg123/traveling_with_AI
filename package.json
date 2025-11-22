@@ -1,0 +1,49 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "@mantine/core": "^7.13.2",
+    "@mantine/dates": "^7.17.8",
+    "@mantine/hooks": "^7.13.2",
+    "@svg-maps/vietnam": "^2.0.0",
+    "@types/leaflet": "^1.9.21",
+    "cloudinary": "^2.8.0",
+    "dayjs": "^1.11.13",
+    "firebase": "^12.6.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.554.0",
+    "next": "15.5.6",
+    "next-cloudinary": "^6.17.5",
+    "react": "^19.1.0",
+    "react-dom": "19.1.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-leaflet": "^5.0.0",
+    "react-toastify": "^11.0.5",
+    "recharts": "^3.4.1",
+    "styled-components": "^6.1.19",
+    "svg-path-bounds": "^1.0.2"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4.1.17",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/styled-components": "^5.1.36",
+    "autoprefixer": "^10.4.22",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.6",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
