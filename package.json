@@ -13,6 +13,7 @@
     "@mantine/core": "^7.13.2",
     "@mantine/dates": "^7.17.8",
     "@mantine/hooks": "^7.13.2",
+    "@react-google-maps/api": "^2.20.7",
     "@svg-maps/vietnam": "^2.0.0",
     "@types/leaflet": "^1.9.21",
     "cloudinary": "^2.8.0",
